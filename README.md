@@ -26,27 +26,22 @@ This Power BI report provides a comprehensive overview of air quality metrics ac
 ## Visualizations and Insights
 
 ### 1. Map Visualization
-**Title:** Global Distribution of PM2.5 Levels
 - **Description:** This map shows the geographical distribution of PM2.5 levels across different cities.
 - **Insight:** Identify regions with high PM2.5 levels and assess geographical patterns in air pollution.
 
 ### 2. Line Chart
-**Title:** Trends in Air Pollutants Over Time
 - **Description:** Line charts depicting the trends of various air pollutants (PM2.5, PM10, NO2, SO2, CO, O3) over time.
 - **Insight:** Observe the changes in pollutant levels over different periods and identify any seasonal patterns or trends.
 
 ### 3. Bar Chart
-**Title:** Average Pollutant Levels by City
 - **Description:** Bar charts comparing average levels of different pollutants across various cities.
 - **Insight:** Determine which cities have higher average pollutant levels and compare their air quality.
 
 ### 4. Scatter Plot
-**Title:** Correlation Between PM2.5 and NO2 Levels
 - **Description:** Scatter plots showing the correlation between PM2.5 and NO2 levels in various cities.
 - **Insight:** Understand the correlation between PM2.5 and NO2, which can indicate common pollution sources or environmental factors.
 
 ### 5. Cards
-**Titles:**
 - Average PM2.5 Level
 - Highest NO2 Level
 - Average PM10 Level
@@ -57,7 +52,6 @@ This Power BI report provides a comprehensive overview of air quality metrics ac
 - **Insight:** Quickly access crucial data points for an overview of air quality.
 
 ### 6. Slicers
-**Titles:**
 - Filter by Date
 - Filter by City
 - Filter by Country
